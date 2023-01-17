@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm Lívia Keller</h1>
-<h3>iOS Developer</h3>
+# Olá, sou a Lívia 😄
+<h3 align="center">iOS Developer</h3>
+
+- 🌱 Estou aprendendo: **Desenvolvimento mobile**
+
+- 📄 Formação acadêmica: **Análise e Desenvolvimento de Sistemas (FIAP)**
+
+- 👩🏻‍💻 Trabalho com: **Swift, AWS e Firebase**
+
+- 📫 How to reach me: **dev.kellerlivia@gmail.com**
 
 <h3>Connect with me:</h3>
 <p>
