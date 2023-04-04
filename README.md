@@ -1,7 +1,7 @@
 # Olá, sou a Lívia 😄
 <h3 align="center">iOS Developer</h3>
 
-- 🌱 Estou aprendendo: **Desenvolvimento mobile**
+- 🌱 Estou aprendendo: **Desenvolvimento mobile (iOS e Android)**
 
 - 📄 Formação acadêmica: **Análise e Desenvolvimento de Sistemas (FIAP)**
 
