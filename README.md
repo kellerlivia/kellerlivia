@@ -1,11 +1,11 @@
 # 👩🏻‍💻 Hello! My name is Lívia Keller
-<h3>iOS developer with 1 year of experience</h3>
+<h3>iOS developer more than one year of experience</h3>
 
-- 🌱 Estou aprendendo: **Desenvolvimento mobile (iOS e Android)**
+- 🌱 Especialização: **Desenvolvimento iOS**
 
 - 📄 Formação acadêmica: **Análise e Desenvolvimento de Sistemas (FIAP)**
 
-- 👩🏻‍💻 Trabalho com: **Swift, Kotlin e Firebase**
+- 👩🏻‍💻 Trabalho com: **Swift, SwiftUI e Firebase**
 
 - 📫 How to reach me: **dev.kellerlivia@gmail.com**
 
