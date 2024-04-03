@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Hello! My name is Lívia Keller
-<h3>iOS developer more than one year of experience</h3>
+<h3>iOS developer with more than one year of experience</h3>
 
 - 🌱 Especialização: **Desenvolvimento iOS**
 
